@@ -58,7 +58,7 @@
   "posts": {
     "0": {
       "url": "https://api.github.com/repos/ismailmarmoush/debian/readme",
-      "title": "Dummy Post 0 a Readme file from github",
+      "title": "Dummy Post 0 a readme file from github",
       "tag": "Linux",
       "img": "content/img/debian-wallpaper.jpg",
       "thumb": "content/img/debian-wallpaper.jpg",
